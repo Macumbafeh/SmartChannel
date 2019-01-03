@@ -1,0 +1,7 @@
+## Interface: 20400
+## Title: |cffa0f6aaSmartChannel|r
+## Notes: Automatically choose chat channel with /i
+## Author: null
+## Version: 1.0
+
+SmartChannel.lua
